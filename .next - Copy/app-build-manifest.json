@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-c2206fc24a580d89.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-130726a0ec93787b.js",
+      "static/chunks/main-app-4c5ab2fbf8096fbb.js",
+      "static/chunks/app/_not-found/page-d9c907af63840d6f.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-c2206fc24a580d89.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-130726a0ec93787b.js",
+      "static/chunks/main-app-4c5ab2fbf8096fbb.js",
+      "static/css/c326d0e849ed440f.css",
+      "static/chunks/173-4923bb818968f7ed.js",
+      "static/chunks/192-21076e49bd532d5e.js",
+      "static/chunks/app/layout-8e521067326eb631.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-c2206fc24a580d89.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-130726a0ec93787b.js",
+      "static/chunks/main-app-4c5ab2fbf8096fbb.js",
+      "static/chunks/173-4923bb818968f7ed.js",
+      "static/chunks/app/page-b70715d5d0b3e9a4.js"
+    ],
+    "/product/page": [
+      "static/chunks/webpack-c2206fc24a580d89.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-130726a0ec93787b.js",
+      "static/chunks/main-app-4c5ab2fbf8096fbb.js",
+      "static/chunks/app/product/page-7683c7b85b74cf68.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack-c2206fc24a580d89.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-130726a0ec93787b.js",
+      "static/chunks/main-app-4c5ab2fbf8096fbb.js",
+      "static/chunks/173-4923bb818968f7ed.js",
+      "static/chunks/app/services/page-8061da8d57afad5e.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-c2206fc24a580d89.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-130726a0ec93787b.js",
+      "static/chunks/main-app-4c5ab2fbf8096fbb.js",
+      "static/chunks/173-4923bb818968f7ed.js",
+      "static/chunks/app/about/page-f2eed55fa22ccf48.js"
+    ]
+  }
+}
